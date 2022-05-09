@@ -1,3 +1,3 @@
 output "root_dir" {
-  value = "hello from root directory. blah blah testing"
+  value = "hello from root directory."
 }
