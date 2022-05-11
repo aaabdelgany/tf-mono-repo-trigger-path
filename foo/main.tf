@@ -1,3 +1,3 @@
 output "foo_dir" {
-  value = "hello from foo directory.testing"
+  value = "hello from foo directory."
 }
